@@ -1,4 +1,4 @@
-package controllers;
+package com.example.L93105.controllers;
 
 import com.example.L93105.controllers.SetterInjectedController;
 import org.junit.jupiter.api.BeforeEach;
